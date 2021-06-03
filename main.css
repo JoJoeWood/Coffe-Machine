@@ -1,0 +1,9 @@
+/* this is my introduction to Cascading Style Sheets; It is the language used to style websites. It defines the visual representation of the content. 
+For example colour, margins, borders, backgrounds and position in the page. */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+html {
+    background-color: rgba(143, 139, 177, 0.543);
+    color: rgb(28, 28, 62);opacity: 1;;
+    font-family: 'Quicksand', sans-serif;
+} */
